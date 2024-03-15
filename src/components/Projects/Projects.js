@@ -5,6 +5,8 @@ import Particle from "../Particle";
 import { projects } from "../../Assets/data";
 
 function Projects() {
+  const items = projects.map((item) => item.imgPath);
+  console.log(items);
   return (
     <Container fluid className="project-section">
       <Particle />

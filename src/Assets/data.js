@@ -1,5 +1,6 @@
 import apnaStore from "../Assets/Projects/apnaStore.png";
 import expenseTracker from "../Assets/Projects/expenseTracker.png";
+import taskManager from "../Assets/Projects/taskManager.png";
 
 export const Bio = {
   name: "Sintu Kumar",
@@ -13,26 +14,26 @@ export const Bio = {
 
 export const projects = [
   {
-    imgPath: { expenseTracker },
+    imgPath: expenseTracker,
     title: "Expense Tracker",
     description:
       "Expense tracker built with HTML, CSS, and JavaScript, powered by Node.js and MongoDB. Track, visualize, and manage your expenses while enjoying premium features for an enhanced tracking experience.",
-    gitLink: "https://github.com/abhi9871/Expense-Tracker-NoSql",
+    gitLink: "https://github.com/Sintu1Kumar/Expense-Tracker",
   },
   {
-    imgPath: {},
-    title: "Group Chat",
+    imgPath: taskManager,
+    title: "Task Manager App",
     description:
-      "Personal Chat Room or Workspace to share resources and hangout with friends build with HTML, CSS, JavaScript, Node.js, and MySQL. Have features which allows user for realtime messaging, and multimedia sharing.",
-    gitLink: "https://github.com/abhi9871/Group-Chat-App",
+      "Task manager build with HTML, CSS, JavaScript, Node.js, and MongoDB. Add, Modify and Delete the task and store the task with mongoDB database.",
+    gitLink: "https://github.com/Sintu1Kumar/Task-Manager-App",
   },
   {
-    imgPath: { apnaStore },
-    title: "Apna Store",
+    imgPath: apnaStore,
+    title: "E-Commerce Website",
     description:
-      "Step into Apna Store, where innovation meets convenience! Our dynamic e-commerce platform, expertly crafted with React and fortified by Firebase, invites customers to embark on a personalized online shopping spree, making every purchase a seamless delight.",
-    ghLink: "https://github.com/abhi9871/E-commerce-Website",
-    demoLink: "https://e-commerce-website-navy-one.vercel.app/",
+      "Step into e-commerce, where innovation meets convenience! Our dynamic e-commerce platform, expertly crafted with React and fortified by Firebase, invites customers to embark on a personalized online shopping spree, making every purchase a seamless delight.",
+    gitLink: "https://github.com/Sintu1Kumar/E-Commerce-Website",
+    demoLink: "",
   },
 ];
 
