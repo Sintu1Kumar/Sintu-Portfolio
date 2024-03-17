@@ -29,11 +29,11 @@ export const projects = [
   },
   {
     imgPath: apnaStore,
-    title: "E-Commerce Website",
+    title: "Online Shopping",
     description:
       "Step into e-commerce, where innovation meets convenience! Our dynamic e-commerce platform, expertly crafted with React and fortified by Firebase, invites customers to embark on a personalized online shopping spree, making every purchase a seamless delight.",
-    gitLink: "https://github.com/Sintu1Kumar/E-Commerce-Website",
-    demoLink: "",
+    gitLink: "https://github.com/Sintu1Kumar/Online-Shopping",
+    demoLink: "https://online-shopping-ruby.vercel.app",
   },
 ];
 
