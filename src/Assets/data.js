@@ -1,6 +1,6 @@
-import apnaStore from "../Assets/Projects/apnaStore.png";
 import expenseTracker from "../Assets/Projects/expenseTracker.png";
 import taskManager from "../Assets/Projects/taskManager.png";
+import onlineShopping from "../Assets/Projects/onlineShopping.png"
 
 export const Bio = {
   name: "Sintu Kumar",
@@ -28,7 +28,7 @@ export const projects = [
     gitLink: "https://github.com/Sintu1Kumar/Task-Manager-App",
   },
   {
-    imgPath: apnaStore,
+    imgPath: onlineShopping,
     title: "Online Shopping",
     description:
       "Step into e-commerce, where innovation meets convenience! Our dynamic e-commerce platform, expertly crafted with React and fortified by Firebase, invites customers to embark on a personalized online shopping spree, making every purchase a seamless delight.",
