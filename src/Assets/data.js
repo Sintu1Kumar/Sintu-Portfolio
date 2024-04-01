@@ -14,13 +14,6 @@ export const Bio = {
 
 export const projects = [
   {
-    imgPath: expenseTracker,
-    title: "Expense Tracker",
-    description:
-      "Expense tracker built with HTML, CSS, and JavaScript, powered by Node.js and MongoDB. Track, visualize, and manage your expenses while enjoying premium features for an enhanced tracking experience.",
-    gitLink: "https://github.com/Sintu1Kumar/Expense-Tracker",
-  },
-  {
     imgPath: taskManager,
     title: "Task Manager App",
     description:
@@ -35,6 +28,13 @@ export const projects = [
     gitLink: "https://github.com/Sintu1Kumar/Online-Shopping",
     demoLink: "https://online-shopping-ruby.vercel.app",
   },
+  {
+    imgPath: expenseTracker,
+    title: "Expense Tracker",
+    description:
+      "Expense tracker built with HTML, CSS, and JavaScript, powered by Node.js and MongoDB. Track, visualize, and manage your expenses while enjoying premium features for an enhanced tracking experience.",
+    gitLink: "https://github.com/Sintu1Kumar/Expense-Tracker",
+  }
 ];
 
 export const socialLinks = {
