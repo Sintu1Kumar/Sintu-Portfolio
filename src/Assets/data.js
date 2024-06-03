@@ -1,14 +1,15 @@
 import expenseTracker from "../Assets/Projects/expenseTracker.png";
 import taskManager from "../Assets/Projects/taskManager.png";
-import onlineShopping from "../Assets/Projects/onlineShopping.png"
+import onlineShopping from "../Assets/Projects/onlineShopping.png";
 
 export const Bio = {
   name: "Sintu Kumar",
   city: "New Ashok Nagar, Delhi",
   education: "Masters of Computer Applications (MCA) from IGNOU.",
   skill:
-    "HTML, CSS, Javascript, Node.js, Express, MongoDB, MySQL and React.js.",
-  skill2: "Node.js and Modern Javascript Library and Frameworks like React.js.",
+    "HTML, CSS, Javascript, React.js, Vue.js, Node.js, Express, MongoDB and MySQL.",
+  skill2:
+    "Node.js and Modern Javascript Library and Frameworks like React.js, Vue.js",
   gitId: "Sintu1Kumar",
 };
 
@@ -34,7 +35,7 @@ export const projects = [
     description:
       "Expense tracker built with HTML, CSS, and JavaScript, powered by Node.js and MongoDB. Track, visualize, and manage your expenses while enjoying premium features for an enhanced tracking experience.",
     gitLink: "https://github.com/Sintu1Kumar/Expense-Tracker",
-  }
+  },
 ];
 
 export const socialLinks = {
